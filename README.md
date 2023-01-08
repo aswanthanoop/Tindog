@@ -1,2 +1,1 @@
-# Tindog
-A dummy website
+TinDog Starting Files
